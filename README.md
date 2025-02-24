@@ -70,7 +70,9 @@ python src/plot_results.py
 ## Results
 The figure below shows the total reward per episode for both algorithms:
 
-![image](https://github.com/user-attachments/assets/ed46fd6d-55aa-4f88-ae71-f551aaaddafd)
+<img src="https://github.com/user-attachments/assets/ed46fd6d-55aa-4f88-ae71-f551aaaddafd" alt="Performance Comparison" width="500">
+
+
 
 
 ### Observations:
