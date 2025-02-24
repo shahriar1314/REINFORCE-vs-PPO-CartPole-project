@@ -70,7 +70,8 @@ python src/plot_results.py
 ## Results
 The figure below shows the total reward per episode for both algorithms:
 
-![Performance Comparison](data/performance_plot.png)
+![image](https://github.com/user-attachments/assets/ed46fd6d-55aa-4f88-ae71-f551aaaddafd)
+
 
 ### Observations:
 - **PPO** learns faster but has higher variance.
