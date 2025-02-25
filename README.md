@@ -19,14 +19,17 @@ Reinforcement learning (RL) is a machine learning paradigm where an agent learns
 
 ## Project Structure
 ```
-├── data/                   # Folder for storing training logs and results
-├── models/                 # Folder for saving trained models
+├── config.py
+├── models.py               # Policy Network
 ├── src/                    # Source code for training and evaluation
 │   ├── train_reinforce.py  # Training script for REINFORCE
 │   ├── train_ppo.py        # Training script for PPO
 │   ├── plot_results.py     # Visualization script for comparing algorithms
+├── main.py                # New Version
+├── main2.py                # Older Version
 ├── README.md               # Project documentation
-└── requirements.txt        # Dependencies
+└── utils.py                # utils
+
 ```
 
 ## Installation
